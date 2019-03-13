@@ -1,5 +1,6 @@
 #!/bin/sh
-
+git add *
+git commit -m 'commit'
 git filter-branch -f --env-filter '
 OLD_EMAIL="achanish@amazon.com"
 CORRECT_NAME="Anish Acharya"
