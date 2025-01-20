@@ -25,13 +25,9 @@ description: "Computer Scientist & Entrepreneur"
 # List of links in the navigation bar
 navbar-links:
    # Bio: "bio"
-   Bio: "aboutme"
-   Resume: "https://www.wncg.org/sites/default/files/cv/CV_ANISH.pdf"
-   Publications: "publications"
-   Talks: "talks"
-   Press: "press"   
-   Awards: "awards"
-   Outreach: "services"
+   About me: "aboutme"
+   Resume: "https://www.wncg.org/sites/default/files/cv/CV_ANISH.pdf" 
+   Projects: "Projects"
      #- Fundings: "fundings"
 #  About Me: "aboutme"
 #  Resources:
