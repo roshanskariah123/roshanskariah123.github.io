@@ -57,3 +57,17 @@
 
   </div>
 </nav>
+
+<nav class="navbar">
+  <ul class="navbar-nav">
+    {% for link in site.navbar-links %}
+      <li class="nav-item">
+        {% if link[0] == "Download Resume" %}
+          <a href="{{ link[1] }}" class="nav-link" download>{{ link[0] }}</a>
+        {% else %}
+          <a href="{{ link[1] }}" class="nav-link">{{ link[0] }}</a>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+</nav>
