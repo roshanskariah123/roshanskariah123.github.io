@@ -26,7 +26,7 @@ description: "Computer Scientist & Entrepreneur"
 navbar-links:
    # Bio: "bio"
    About me: "aboutme"
-   Download Resume: "https://drive.google.com/drive/folders/11olryenlu-C1Q7wCinAhzQP67Wg3YeS3?usp=sharing" 
+   Resume: "https://drive.google.com/drive/folders/11olryenlu-C1Q7wCinAhzQP67Wg3YeS3?usp=sharing" 
    Projects: "Projects"
      #- Fundings: "fundings"
 #  About Me: "aboutme"
