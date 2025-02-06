@@ -12,7 +12,7 @@ permalink: /contact/
 </div>
 
 <div style="max-width: 600px; margin: 0 auto; padding: 20px; background-color: #f9f9f9; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
-  <form action="https://formspree.io/f/your-form-id" method="POST">
+  <form action="https://formspree.io/f/mkgozrqn" method="POST">
     <div style="margin-bottom: 15px;">
       <label for="name" style="font-size: 1em; font-weight: bold;">Your Name:</label><br>
       <input type="text" id="name" name="name" required style="width: 100%; padding: 10px; font-size: 1em; border: 1px solid #ccc; border-radius: 5px;">
